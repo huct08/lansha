@@ -1,9 +1,9 @@
  
 {
     "bookSourceGroup": "💡【提示】;",
-    "bookSourceName": "SVIP漫画💡",
+    "bookSourceName": "免费看韩漫",
     "bookSourceType": "漫画",
-    "bookSourceUrl": "https:\/\/www.404mh.com",
+    "bookSourceUrl": "https:\/\/www.mfkhm.com",
     "enable": true,
     "httpUserAgent": "",
     "lastUpdateTime": 0,
@@ -22,7 +22,7 @@
     "ruleContentUrl": "href@Header:{User-Agent:'Mozilla\/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X; zh-CN) AppleWebKit\/537.51.1 (KHTML, like Gecko) Mobile\/16D57 UCBrowser\/12.3.0.1138 Mobile AliApp(TUnionSDK\/0.1.20.3)'}",
     "ruleContentUrlNext": "",
     "ruleCoverUrl": "img.banner_detail_bg@src@Header:{Referer:thisPage}",
-    "ruleFindUrl": "排行::https:\/\/www.404mh.com\/rank\n全部::https:\/\/www.404mh.com\/booklist?page=searchPage\r\n连载::https:\/\/www.404mh.com\/booklist?tag=%E5%85%A8%E9%83%A8&area=-1&end=0&page=searchPage\r\n完结::https:\/\/www.404mh.com\/booklist?tag=%E5%85%A8%E9%83%A8&area=-1&end=1&page=searchPage\n剧情::https:\/\/www.404mh.com\/booklist?tag=%E5%89%A7%E6%83%85&page=searchPage\n恋爱::https:\/\/www.404mh.com\/booklist?tag=%E6%81%8B%E7%88%B1&page=searchPage\n冒险::https:\/\/www.404mh.com\/booklist?tag=%E5%86%92%E9%99%A9&page=searchPage\n动作::https:\/\/www.404mh.com\/booklist?tag=%E5%8A%A8%E4%BD%9C&page=searchPage\n校园::https:\/\/www.404mh.com\/booklist?tag=%E6%A0%A1%E5%9B%AD&page=searchPage\n恐怖::https:\/\/www.404mh.com\/booklist?tag=%E6%81%90%E6%80%96&page=searchPage\n古风::https:\/\/www.404mh.com\/booklist?tag=%E5%8F%A4%E9%A3%8E&page=searchPage\nBl::https:\/\/www.404mh.com\/booklist?tag=Bl&page=searchPage\n搞笑::https:\/\/www.404mh.com\/booklist?tag=%E6%90%9E%E7%AC%91&page=searchPage\n科幻::https:\/\/www.404mh.com\/booklist?tag=%E7%A7%91%E5%B9%BB&page=searchPage\n其他::https:\/\/www.404mh.com\/booklist?tag=%E5%85%B6%E4%BB%96&page=searchPage\n爱情::https:\/\/www.404mh.com\/booklist?tag=%E7%88%B1%E6%83%85&page=searchPage\n生活::https:\/\/www.404mh.com\/booklist?tag=%E7%94%9F%E6%B4%BB&page=searchPage\n后宫::https:\/\/www.404mh.com\/booklist?tag=%E5%90%8E%E5%AE%AB&page=searchPage\n热血::https:\/\/www.404mh.com\/booklist?tag=%E7%83%AD%E8%A1%80&page=searchPage\n真人::https:\/\/www.404mh.com\/booklist?tag=%E7%9C%9F%E4%BA%BA&page=searchPage",
+    "ruleFindUrl": "排行::https:\/\/www.mfkhm.com\/rank\n全部::https:\/\/www.mfkhm.com\/booklist?page=searchPage\r\n连载::https:\/\/www.mfkhm.com\/booklist?tag=%E5%85%A8%E9%83%A8&area=-1&end=0&page=searchPage\r\n完结::https:\/\/www.mfkhm.com\/booklist?tag=%E5%85%A8%E9%83%A8&area=-1&end=1&page=searchPage\n剧情::https:\/\/www.mfkhm.com\/booklist?tag=%E5%89%A7%E6%83%85&page=searchPage\n恋爱::https:\/\/www.mfkhm.com\/booklist?tag=%E6%81%8B%E7%88%B1&page=searchPage\n冒险::https:\/\/www.mfkhm.com\/booklist?tag=%E5%86%92%E9%99%A9&page=searchPage\n动作::https:\/\/www.mfkhm.com\/booklist?tag=%E5%8A%A8%E4%BD%9C&page=searchPage\n校园::https:\/\/www.mfkhm.com\/booklist?tag=%E6%A0%A1%E5%9B%AD&page=searchPage\n恐怖::https:\/\/www.mfkhm.com\/booklist?tag=%E6%81%90%E6%80%96&page=searchPage\n古风::https:\/\/www.mfkhm.com\/booklist?tag=%E5%8F%A4%E9%A3%8E&page=searchPage\nBl::https:\/\/www.mfkhm.com\/booklist?tag=Bl&page=searchPage\n搞笑::https:\/\/www.mfkhm.com\/booklist?tag=%E6%90%9E%E7%AC%91&page=searchPage\n科幻::https:\/\/www.mfkhm.com\/booklist?tag=%E7%A7%91%E5%B9%BB&page=searchPage\n其他::https:\/\/www.mfkhm.com\/booklist?tag=%E5%85%B6%E4%BB%96&page=searchPage\n爱情::https:\/\/www.mfkhm.com\/booklist?tag=%E7%88%B1%E6%83%85&page=searchPage\n生活::https:\/\/www.mfkhm.com\/booklist?tag=%E7%94%9F%E6%B4%BB&page=searchPage\n后宫::https:\/\/www.mfkhm.com\/booklist?tag=%E5%90%8E%E5%AE%AB&page=searchPage\n热血::https:\/\/www.mfkhm.com\/booklist?tag=%E7%83%AD%E8%A1%80&page=searchPage\n真人::https:\/\/www.mfkhm.com\/booklist?tag=%E7%9C%9F%E4%BA%BA&page=searchPage",
     "ruleIntroduce": "p[style*='position']@text",
     "ruleSearchAuthor": "",
     "ruleSearchCoverUrl": "class.mh-cover@style@js:result.match(\/\\((.*?)\\)\/)[1]@Header:{Referer:thisPage}",
@@ -31,7 +31,7 @@
     "ruleSearchList": "class.mh-item",
     "ruleSearchName": "tag.h2@text",
     "ruleSearchNoteUrl": "tag.h2@tag.a@href",
-    "ruleSearchUrl": "https:\/\/www.404mh.com\/search?keyword=searchKey",
+    "ruleSearchUrl": "https:\/\/www.mfkhm.com\/search?keyword=searchKey",
     "serialNumber": 183,
     "sourceRemark": "搜索2字+",
     "weight": 635
